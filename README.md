@@ -55,6 +55,7 @@ To analyze ITC Hotels' performance across financial, operational, and customer d
 - How have cancellation trends changed over time (MoM/WoW)?
 - What is the lost revenue due to cancellations?
 - Are there any patterns in cancellations (e.g., specific room types, time of year)?
+
 **KPIs and Metrics:**
 
 - Cancellation Rate
