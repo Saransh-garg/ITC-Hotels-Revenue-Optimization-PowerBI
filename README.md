@@ -30,6 +30,7 @@ To analyze ITC Hotels' performance across financial, operational, and customer d
 - What is the occupancy rate for each hotel and room category?
 - How does occupancy fluctuate seasonally or over specific periods (e.g., weekends, holidays)?
 - How does occupancy correlate with revenue and RevPAR?
+
 **KPIs and Metrics:**
 
 - Occupancy Rate
@@ -42,6 +43,7 @@ To analyze ITC Hotels' performance across financial, operational, and customer d
 - How do booking patterns (lead time, check-in dates) affect revenue and occupancy?
 - What is the average length of stay (ALOS) for each hotel and room type?
 - What is the room revenue trend (including running total and MoM/WoW growth)?
+
 **KPIs and Metrics:**
 
 - Average Length of Stay (ALOS)
